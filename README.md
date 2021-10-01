@@ -1,5 +1,7 @@
-# Youtube Dl bot 😉
-## Prerequisite
+# Youtube Video Download Bot 😉
+##  🎹 A telegram bot that can download youtube videos 🎸
+### Reach me on Telegram [🎹 Youtube Video Downloader 🎸](http://t.me/youtubevideodownloader45_bot)
+#### Prerequisite
     ffmpeg
   
     
