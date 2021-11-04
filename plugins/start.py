@@ -8,9 +8,9 @@ async def start(client, message):
         [InlineKeyboardButton("Owner", url="https://t.me/SanilaRanatunga")],
         [InlineKeyboardButton(
             "Report Bugs 😊", url="https://t.me/SanilaRanatunga")],
-         [InlineKeyboardButton("Torrent Downloader😎😋", url="https://t.me/torrentdownloader88_bot")],
-        [InlineKeyboardButton("Song Downloader😎😋", url="https://t.me/songdownload597_bot")],
-        [InlineKeyboardButton("Powerful Chat Bot😎😋", url="https://t.me/useful_powerful_chat_bot")]
+         [InlineKeyboardButton("Torrent Downloader🚠", url="https://t.me/torrentdownloader88_bot")],
+        [InlineKeyboardButton("Song Downloader🚠", url="https://t.me/songdownload597_bot")],
+        [InlineKeyboardButton("Powerful Chat Bot🚠", url="https://t.me/useful_powerful_chat_bot")],
         [InlineKeyboardButton("Source Code🚥", url="https://github.com/sanila2007/Youtube-Downloader-Bot")]
         
     ])
