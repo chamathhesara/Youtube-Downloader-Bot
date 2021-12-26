@@ -10,6 +10,6 @@ async def start(client, message):
         [InlineKeyboardButton("Source Code🚥", url="https://github.com/sanila2007/Youtube-Downloader-Bot")]
         
     ])
-    welcomed = f"Hey <b>{message.from_user.first_name}</b>\nYou can download any youtube video using this bot. To download simply send the link of the video that you want to download😋\n\n✨️A bot by @SanilaRanatunga"
+    welcomed = f"Hey <b>{message.from_user.first_name}</b>\nYou can download any youtube video using this bot. To download simply send the link of the video that you want to download😋\n\n✨️Developer: Sanila Ranatunga\n\n✨️Feedback : @sanilaassistant_bot"
     await message.reply_text(welcomed, reply_markup=joinButton)
     raise StopPropagation
